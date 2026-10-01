@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "updatedAt": "2026-10-01",
+  "blockedStations": [
+    {
+      "stationId": "kan_gimel",
+      "reason": {
+        "he": "הוסר לבקשת כאן תאגיד השידור",
+        "en": "Removed at the broadcaster's request",
+        "es": "Eliminada a petición del emisor",
+        "fr": "Retirée à la demande du diffuseur",
+        "ru": "Удалено по запросу вещателя"
+      }
+    }
+  ]
+}
